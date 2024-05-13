@@ -1,7 +1,3 @@
-#Atividade em grupo
-#Alunos: Gustavo Fernando Mastrocollo Gea - RA 623201135
-#        Guilherme Paiva Flora            - RA 623200498
-
 import numpy as np
 from scipy.linalg import inv, det
 
